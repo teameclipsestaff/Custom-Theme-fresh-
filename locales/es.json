@@ -356,7 +356,7 @@
       "sorry_stock": "Lo sentimos, actualmente no disponible",
       "quantity": "Cantidad",
       "thanks": "¡Gracias!. Le notificaremos cuando este producto esté disponible",
-      "out-stock_html": "Introduzca su correo electrónico para recibir allí un aviso cuando <strong>{{ product }} {{ variant }}</strong> esté disponible.",
+      "out-stock_html": "Introduzca su correo electrónico para recibir allí un aviso cuando <strong>{{ product }} {{ variant }}<\/strong> esté disponible.",
       "wrong-email": "Por favor, proporcione una dirección de email válida.",
       "view_in_space": "Ver en tu espacio",
       "view_in_space_label": "Ver en tu espacio, carga el artículo en la ventana de realidad aumentada",
