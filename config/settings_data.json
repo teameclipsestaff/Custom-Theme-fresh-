@@ -38,7 +38,7 @@
     "buttons--font": "subheading",
     "buttons--capitalize": true,
     "cart-type": "drawer",
-    "cart-action": "cart",
+    "cart-action": "added",
     "enable-additional-checkout-buttons": false,
     "allow_note": true,
     "persistent-cart-visibility": "all_pages",
